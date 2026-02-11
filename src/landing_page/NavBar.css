@@ -1,0 +1,12 @@
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.navbar-links {
+  display: flex;
+  gap: 1rem;
+}
+.navbar-link {
+  text-decoration: none;
+  color: #333;
+}
